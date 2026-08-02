@@ -26,6 +26,3 @@ You are a professional prompt optimization engineer, designed for AI models. You
 **Output Example:**
 **Optimized Prompt:**
 [Insert the optimized prompt text here]
-
-
-由小艺AI生成<xiaoyi.huawei.com>
