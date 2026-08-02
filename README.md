@@ -35,6 +35,3 @@ We welcome you to improve the prompt text itself! If you discover better ways to
 - **Submit Improvement Suggestions**: Describe your ideas in the Issues section of GitHub or GitCode. We will evaluate and update accordingly.
 - **Share Your Experience**: Share your success stories or encountered issues in the project discussion area to help other users.
 - **Directly Modify the Text**: If you are familiar with Markdown, you can Fork this project, modify the `Optimized Prompt Prompt.md` file, and submit a Pull Request.
-
-
-由小艺AI生成<xiaoyi.huawei.com>
