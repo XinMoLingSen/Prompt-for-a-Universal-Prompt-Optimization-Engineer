@@ -89,6 +89,7 @@ Launch your commonly used AI chat model.
 
 **Step 3: Turn Off Deep Thinking Mode**
 Before sending the prompt, ensure that the AI model's deep thinking mode (e.g., "Deep Reasoning," "Advanced Analysis," etc.) is turned off to prevent the AI from over-analyzing the instruction structure and ignoring the execution requirements, which may lead to non-compliance with the prompt instructions.
+> **Prompt**: If you need to use the deep thinking mode, you can restart it after the initial AI prompt is completed.
 
 **Step 4: Paste and Send**
 Paste the copied prompt content into the input box and send it.
@@ -116,6 +117,7 @@ To more stably guide the AI into "optimization mode," it is recommended to add t
 
 #### Method 2: Turn Off Deep Thinking Mode
 When initializing the AI with this prompt, it is recommended to turn off the AI model's deep thinking mode (e.g., "Deep Reasoning," "Advanced Analysis," etc.). Deep thinking mode may cause the AI to over-analyze the structure and intent of the prompt rather than directly executing the instructions, thus reducing the AI's compliance with the prompt instructions. Turning off this mode ensures the AI strictly follows the pre-set questioning process, improving the task success rate.
+> **Prompt**: If you need to use the deep thinking mode, you can restart it after the initial AI prompt is completed.
 
 ### 6.2 Advanced Usage
 
